@@ -1,3 +1,3 @@
-# tela-de-login-com-tailwindcss
+# Tela de Login com tailwindcss
 
-Projeto tela de login, com HTML e tailwindcss.
+## Projeto tela de login, feito com HTML e tailwindcss.
